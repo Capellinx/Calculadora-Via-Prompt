@@ -3,7 +3,7 @@
 
 <br>
 
-<h2 align="center">Realizar contas de soma, subratração, multiplicação, Divisão real, Divisão inteira e Potenciação. </h2>
+<h2 align="center">Realizar contas de soma, subratração, multiplicação, divisão real, divisão inteira e potenciação. </h2>
 
 <br>
 
